@@ -1,0 +1,8 @@
+@charset "UTF-8";
+td,td{
+	border: 1px solid #000;
+}
+.back-white{
+	border: 1px solid #000;	
+	background-color:white;
+}

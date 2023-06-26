@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+
+.pagination{
+	text-align:center;
+}
+.pagination>ul{
+	display:flex;
+	list-style:none;
+	text-align:left;
+	font-size:14px;
+	margin-left: 75px;
+}
+.pagination>ul>li>form>button{
+	border: 1px solid #000;
+	border-radius: 4px;
+	margin-left:10px;
+	padding:5px 10px;	
+	background-color:#efefefff;
+}

@@ -1,0 +1,22 @@
+@charset "UTF-8";
+div{
+	padding: 10px;
+}
+.accountList,.accountModify{
+	width:1500px;
+}
+.pagination>ul{
+	margin-left:300px;
+}
+.resisterForm,.confirmResisterForm,.modifyForm{
+	margin:10px 250px;
+}
+.confirmModifyForm{
+	width:100%;
+}
+.center{
+	text-align:center;
+}
+.border-bottom{
+	border-bottom:1px solid #000;
+}
